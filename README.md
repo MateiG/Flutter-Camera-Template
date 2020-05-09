@@ -1,5 +1,16 @@
-# Flutter-Camera-Template
-Template app that displays the camera preview over the full screen.
-Important to note about this repo:
-- "minSdkVersion" in "android/app/build.gradle" has been set to 21
-- "camera" has been added to "pubspec.yaml"
+# template_camera
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
